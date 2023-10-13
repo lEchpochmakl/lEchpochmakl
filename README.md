@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Informatic systems student and future ethical hacker</h3>
+<h3 align="center">Informatic systems student and future information security specialist</h3>
 
 <h3 align="left"><font size ="+5"> My skills and tools </font> 
 
