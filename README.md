@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Egor</a> 
+<h1 align="center">Hi! I'm Egor</a> 
 <h3 align="center">Informatic systems student and future information security specialist</h3>
 
 <h3 align="left"><font size ="+5"> My skills and tools </font> 
